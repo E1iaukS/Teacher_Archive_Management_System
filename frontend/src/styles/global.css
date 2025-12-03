@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #f5f7fa;
+}
+#app {
+  min-height: 100vh;
+}
+.el-card__header {
+  font-weight: bold;
+}
